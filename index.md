@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Lucas Tonanez
 
-[Paste your professional paragraph from Week 2 here]
+Lucas Tonanez is a future computer scientist who plans to specialize in machine learning and pursue graduate education. He is part of a research team at UCF where he supports technical projects like training models and builds practical skills such as data preparation, evaluation, and clear technical documentation. Lucas has growing domain knowledge in machine learning and data driven problem solving and he is interested in applying these ideas to real world systems that are reliable and useful. He also has experience with Python Java and C or C++ and he is continuing to expand his skills through class projects research work and independent learning. This portfolio shows his progress and work in machine learning and technical writing.
 
 ## Professional Writing Samples/Projects
 
