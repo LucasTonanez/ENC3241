@@ -10,6 +10,6 @@ Lucas Tonanez is a future computer scientist who plans to specialize in machine 
 ## Professional Writing Samples/Projects
 
 - [Resume](Resume.pdf)
-- [Cover Letter](CoverLetter.pdf)
+- [Cover Letter](coverletter.md)
 - [Instructions](Instruction.pdf)
 - [Proposal](Proposal.pdf)
