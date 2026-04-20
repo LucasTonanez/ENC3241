@@ -11,5 +11,5 @@ Lucas Tonanez is a future computer scientist who plans to specialize in machine 
 
 - [Resume](Resume.pdf)
 - [Cover Letter](CoverLetter.pdf)
-- [Instructions](Instructions.pdf)
+- [Instructions](Instruction.pdf)
 - [Proposal](Proposal.pdf)
